@@ -1,4 +1,8 @@
-# Python MediaPipe – Real-Time Gesture & Pose Detection
+# Python MediaPipe – Real-Time Gesture & Pose Detection 🖐️
+
+<p align="center">
+  <img src="https://res.cloudinary.com/dwm2oprta/image/upload/v1769977970/ThumbThumbNail_nsozqi.png" height="300" alt="Thumbsup thumbnail" />
+</p>
 
 This repository contains a collection of **real-time computer vision demos** built with **Python, OpenCV, and MediaPipe**.  
 Each script uses a webcam (or video input) to detect **hands, faces, and body poses**, and provides visual feedback directly on the video stream.
